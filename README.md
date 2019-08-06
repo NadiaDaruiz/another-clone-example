@@ -1,3 +1,7 @@
-# another-clone-example
-using git clone
-trying some :EMOJICODE: +1
+# Another-clone-example
+
+- Trying some :EMOJICODE: +1
+Doing lists: 
+    * Hola
+    * Chau
+    
