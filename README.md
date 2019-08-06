@@ -3,6 +3,7 @@
 Trying some :EMOJICODE: +1
 
 Doing lists: 
+
     * Hola
     * Chau
     
@@ -17,5 +18,8 @@ Trying headings
 ## Second 
 
 ###### Third 
+
+Trying ~~ wrong ~~
+
 
     
