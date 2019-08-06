@@ -1,6 +1,7 @@
 # Another-clone-example
 
-Trying some :EMOJICODE: +1
+Trying some :EMOJICODE:  :+1:  :shipit:  
+
 
 Doing lists: 
 
