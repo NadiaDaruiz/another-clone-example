@@ -10,5 +10,12 @@ Trying **bold**
 
 Trying *italics*
 
+Trying headings
+
+# Main
+
+## Second 
+
+###### Third 
 
     
