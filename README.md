@@ -8,4 +8,7 @@ Doing lists:
     
 Trying **bold**
 
+Trying *italics*
+
+
     
